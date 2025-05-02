@@ -15,13 +15,20 @@ I am a dedicated **Full Stack Web Developer** with a strong focus on the **MERN 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oSai9951&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oSai9951&theme=radical" width="48%" />
+  <!-- Overall GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=oSai9951&show_icons=true&theme=radical&hide_border=true" alt="Sai’s GitHub Stats" width="45%" />
+  
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oSai9951&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oSai9951&layout=compact&theme=radical" width="50%" />
+  <!-- Streak & Commit Activity -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oSai9951&theme=radical&hide_border=true" alt="GitHub Streak" width="45%" />
+
+  <!-- Contribution calendar -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=oSai9951&theme=radical&hide_border=true" alt="Contribution Graph" width="45%" />
 </p>
