@@ -15,21 +15,14 @@ I am a dedicated **Full Stack Web Developer** with a strong focus on the **MERN 
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
-<p align="center">
-  <!-- Overall GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=oSai9951&show_icons=true&theme=radical&hide_border=true" alt="Sai’s GitHub Stats" width="45%" />
-  
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oSai9951&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oSai9951&show_icons=true&theme=radical&hide_border=true)
 
-<p align="center">
-  <!-- Streak stats (via DemoLab) -->
-  <img src="https://streak-stats.demolab.com?user=oSai9951&theme=radical&hide_border=true" alt="GitHub Streak" width="45%" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oSai9951&layout=compact&theme=radical&hide_border=true)
 
-  <!-- Contribution chart (via ghchart) -->
-  <img src="https://ghchart.rshah.org/oSai9951" alt="Contribution Chart" width="45%" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=oSai9951&theme=radical&hide_border=true)
+
+![Contribution Graph](https://ghchart.rshah.org/oSai9951)
+
 
