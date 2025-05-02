@@ -21,7 +21,7 @@ I am a dedicated **Full Stack Web Developer** with a strong focus on the **MERN 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oSai9951&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=oSai9951&theme=radical&hide_border=true)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=oSai9951.oSai9951)
 
 ![Contribution Graph](https://ghchart.rshah.org/oSai9951)
 
