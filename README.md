@@ -26,9 +26,10 @@ I am a dedicated **Full Stack Web Developer** with a strong focus on the **MERN 
 </p>
 
 <p align="center">
-  <!-- Streak & Commit Activity -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oSai9951&theme=radical&hide_border=true" alt="GitHub Streak" width="45%" />
+  <!-- Streak stats (via DemoLab) -->
+  <img src="https://streak-stats.demolab.com?user=oSai9951&theme=radical&hide_border=true" alt="GitHub Streak" width="45%" />
 
-  <!-- Contribution calendar -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=oSai9951&theme=radical&hide_border=true" alt="Contribution Graph" width="45%" />
+  <!-- Contribution chart (via ghchart) -->
+  <img src="https://ghchart.rshah.org/oSai9951" alt="Contribution Chart" width="45%" />
 </p>
+
