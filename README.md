@@ -16,6 +16,10 @@ I am a dedicated **Full Stack Web Developer** with a strong focus on the **MERN 
 
 ---
 
+## 🌐 Social
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/saimaharana/))
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oSai9951&show_icons=true&theme=radical&hide_border=true)
