@@ -18,7 +18,9 @@ I am a dedicated **Full Stack Web Developer** with a strong focus on the **MERN 
 
 ## 🌐 Social
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saimaharana/)
+<a href="https://www.linkedin.com/in/saimaharana/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
 ## 📊 GitHub Stats
 
